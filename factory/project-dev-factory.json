@@ -1,0 +1,9 @@
+{
+	"name": "project-dev-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ccb8eff0-5b19-4c25-bb94-f63548ade83b",
+		"tenantId": "5d335059-7344-4d11-b936-8e4bcb167cdb"
+	}
+}
